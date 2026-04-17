@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=444444&center=true&vCenter=true&width=480&lines=Turin+%2F+Szturin;Embedded+%7C+Robotics+%7C+Vision;Always+Learning%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=444444&center=true&vCenter=true&width=520&lines=Embedded+%7C+Robotics+%7C+Computer+Vision;Real-time+Systems+%7C+Control+Theory;Always+Learning%2C+Always+Building" />
 
 </div>
 
@@ -8,24 +8,31 @@
 
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="54%">
 
 **Research Focus**
 
-- Real-time embedded systems — STM32, RT-Thread, ARM Cortex-M
-- Robot perception & control — ROS2, Kalman Filter, PID
-- Computer vision & deep learning — TensorFlow, OpenCV
-- Communication protocols — UART · SPI · IIC · CAN
+| Domain | Stack |
+|:--|:--|
+| Embedded RT | STM32 · RT-Thread · ARM Cortex-M |
+| Robotics | ROS2 · Kalman Filter · PID Control |
+| Vision | TensorFlow · OpenCV · Deep Learning |
+| Protocols | UART · SPI · IIC · CAN · OneWire |
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="46%">
 
-**Writing** &nbsp;[![](https://img.shields.io/badge/turinblog.cn-555?style=flat-square&logo=astro&logoColor=white)](http://www.turinblog.cn/)
+**Writing** &emsp; [![](https://img.shields.io/badge/turinblog.cn-→-333?style=flat-square)](http://www.turinblog.cn/)
 
-87 articles across embedded systems, robotics,  
-deep learning, algorithms & engineering tools.
+<sub>87 articles on embedded systems, robotics,<br/>control theory, deep learning & engineering.</sub>
 
-[![RSS](https://img.shields.io/badge/RSS_Feed-subscribe-f90?style=flat-square&logo=rss&logoColor=white)](http://www.turinblog.cn/rss.xml)
+<br/>
+
+> <sub>Topics: `Embedded` `Robotics` `ROS2` `STM32`<br/>`Deep Learning` `Vision` `Algorithms` `Tools`</sub>
+
+<br/>
+
+[![](https://img.shields.io/badge/─────_RSS_Feed_─────-subscribe-f97316?style=flat-square&logo=rss&logoColor=white)](http://www.turinblog.cn/rss.xml)
 
 </td>
 </tr>
@@ -62,16 +69,8 @@ deep learning, algorithms & engineering tools.
 &nbsp;
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szturin&layout=compact&theme=default&hide_border=false&langs_count=5&hide_title=true"/>
 
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Szturin&theme=minimal&hide_border=true&area=false" width="94%"/>
-</div>
 
-<div align="center">
-<sub>
-  <a href="http://www.turinblog.cn/">turinblog.cn</a>
-  &nbsp;·&nbsp;
-  Updated daily via GitHub Actions
-</sub>
+<sub><a href="http://www.turinblog.cn/">turinblog.cn</a> · Updated daily via GitHub Actions</sub>
+
 </div>
