@@ -12,31 +12,33 @@
 
 **Research Focus**
 
-| Domain | Stack |
-|:--|:--|
-| Embedded RT | STM32 · RT-Thread · ARM Cortex-M |
-| Robotics | ROS2 · Kalman Filter · PID Control |
-| Vision | TensorFlow · OpenCV · Deep Learning |
-| Protocols | UART · SPI · IIC · CAN · OneWire |
+<pre>
+Embedded RT   STM32F4/H7 · RT-Thread · HAL/LL
+RoboMaster    Chassis · Gimbal · Auto-aim · CAN
+Control       PID · Cascade Control · Kalman Filter
+Vision        TensorFlow · OpenCV · Edge Inference
+</pre>
 
 </td>
 <td valign="top" width="46%">
 
 **Writing** &emsp; [![](https://img.shields.io/badge/turinblog.cn-→-333?style=flat-square)](http://www.turinblog.cn/)
 
-<sub>87 articles on embedded systems, robotics,<br/>control theory, deep learning & engineering.</sub>
+<sub>
+87 technical articles on real-time embedded systems,<br/>
+RoboMaster development, robot perception,<br/>
+and deep learning — written for hardware engineers.
+</sub>
 
-<br/>
+<br/><br/>
 
-> <sub>Topics: `Embedded` `Robotics` `ROS2` `STM32`<br/>`Deep Learning` `Vision` `Algorithms` `Tools`</sub>
-
-<br/>
-
-[![](https://img.shields.io/badge/─────_RSS_Feed_─────-subscribe-f97316?style=flat-square&logo=rss&logoColor=white)](http://www.turinblog.cn/rss.xml)
+[![](https://img.shields.io/badge/RSS_Feed-subscribe-f97316?style=flat-square&logo=rss&logoColor=white)](http://www.turinblog.cn/rss.xml)
 
 </td>
 </tr>
 </table>
+
+
 
 ---
 
